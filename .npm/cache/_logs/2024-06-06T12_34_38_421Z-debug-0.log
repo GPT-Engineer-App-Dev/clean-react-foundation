@@ -1,0 +1,14 @@
+0 verbose cli /nix/store/bzzs4kvjyvjjhs3rj08vqpvvzmfggvbv-nodejs-20.12.2/bin/node /nix/store/7pj43cbrayyw63x8bq0vv9axjyj8k10v-npm-10.7.0/bin/npm
+1 info using npm@10.7.0
+2 info using node@v20.12.2
+3 silly config:load:file:/nix/store/7pj43cbrayyw63x8bq0vv9axjyj8k10v-npm-10.7.0/lib/node_modules/npm/npmrc
+4 silly config:load:file:/private/var/folders/2f/bnr06_p125g0xvyw1rgvc6m80000gn/T/nix-shell.jfXNkP/tmplbo_n6pr/.npmrc
+5 silly config:load:file:/nix/store/8kqiwig01i3ygnsfriiw1j3nkmsra2vi-npmrc
+6 silly config:load:file:/private/var/folders/2f/bnr06_p125g0xvyw1rgvc6m80000gn/T/nix-shell.jfXNkP/tmplbo_n6pr/.npm/etc/npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:/private/var/folders/2f/bnr06_p125g0xvyw1rgvc6m80000gn/T/nix-shell.jfXNkP/tmplbo_n6pr/.npm/cache/_logs/2024-06-06T12_34_38_421Z-
+10 verbose logfile /private/var/folders/2f/bnr06_p125g0xvyw1rgvc6m80000gn/T/nix-shell.jfXNkP/tmplbo_n6pr/.npm/cache/_logs/2024-06-06T12_34_38_421Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose exit 0
+13 info ok
